@@ -19,17 +19,17 @@ I want to compare different design approaches and select one I like most. You ma
 ## Rules
 
 1. Functionality must be implemented in Java. Call native **wc** is not allowed.
-2. JUnit test must be implemented and pass according to scratch
+2. JUnit `wcmaster.WCTest` must be implemented and pass
 3. Deadline is 5 April 2015
 4. Contest is anonymous as github is.
 
 ## FAQ
 
-1. Why JUnit test is a scratch and is not implemented?
+1. Why JUnit test is a scratch and dummy body?
     - I don't want to suggest any API
 2. How to handle errors?
     - There is no test for errors.
 3. I have other question
-    - If there is no answer on Junit or on `wc --help` or on `man wc` there is no answer at all. All or answers are correct. Or question is stupid. Or whatever
+    - If there is no answer on `wcmaster.WCTest` or on `wc --help` or on `man wc` there is no answer at all. All or answers are correct. Or question is stupid. Or whatever
  
 
